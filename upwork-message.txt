@@ -1,4 +1,4 @@
-[Live demo -- link added after deployment]
+Live demo: https://facility-finder-demo-uvykgy2t3zs7tevjyuabyz.streamlit.app/ (code: https://github.com/PureGit90/facility-finder-demo)
 
 Read your post and built the system before applying instead of just describing one. Give it a company name and a domain, and it checks the likely location and career pages, plus any PDF or spreadsheet reports the company publishes, then hands back facility name, address, city, type, source URL, and supporting evidence for each result. Offices, retail, and R&D sites get filtered out automatically, but they stay visible in a separate tab so nothing disappears silently.
 

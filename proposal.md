@@ -1,14 +1,14 @@
 # Proposal - Scraping, Data Extraction, Automation Expert
 
 **Job URL:** https://www.upwork.com/jobs/Scraping-Data-Extraction-Automation-Expert_~022086629386041695605/
-**Live demo:** [to be added once deployed to Streamlit Cloud]
+**Live demo:** https://facility-finder-demo-uvykgy2t3zs7tevjyuabyz.streamlit.app/
 **Repo:** https://github.com/PureGit90/facility-finder-demo
 
 ---
 
 ## 1. Demo Link (line 1)
 
-**Live demo: [link added on deployment]**
+**Live demo: https://facility-finder-demo-uvykgy2t3zs7tevjyuabyz.streamlit.app/**
 Built a working version of the exact system you described: give it a company name and domain, get back a confidence-scored list of manufacturing plants, warehouses, distribution centers, and fulfillment centers, with source links and evidence for every result.
 
 ## 2. Hook
