@@ -8,4 +8,6 @@ I've built similar systems before: pulling structured records out of PDFs and sp
 
 Stack: Python, requests and BeautifulSoup for crawling, pdfplumber for PDF extraction, pandas for spreadsheet parsing, Claude for classification. Playwright and interactive-map handling are the next layer for JS-heavy sites, which I'd add once the core system is dialed in against a few of your real target companies.
 
-Want me to run this against 3-5 companies from your actual list so we can see real accuracy before committing to the full scope?
+Bidding at $17/hr on your posted range. First week would go toward running this against a handful of your real target companies to get an actual accuracy baseline before scaling to your full list.
+
+Want me to start with 3-5 companies from your actual list so we can see real accuracy before committing to the full scope?
