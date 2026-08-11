@@ -1,0 +1,11 @@
+[Live demo -- link added after deployment]
+
+Read your post and built the system before applying instead of just describing one. Give it a company name and a domain, and it checks the likely location and career pages, plus any PDF or spreadsheet reports the company publishes, then hands back facility name, address, city, type, source URL, and supporting evidence for each result. Offices, retail, and R&D sites get filtered out automatically, but they stay visible in a separate tab so nothing disappears silently.
+
+The part that matters most for your use case: it's one pipeline, not a scraper built per company. When two independent sources agree on the same facility, confidence gets upgraded automatically. When only one weak source backs a find, it gets flagged needs-review instead of presented as fact. That's the accuracy-over-completeness behavior your post is asking for.
+
+I've built similar systems before: pulling structured records out of PDFs and spreadsheets, and monitoring public records for changes over time. This follows the same pattern, source discovery, extraction, verification, just applied to facility data instead.
+
+Stack: Python, requests and BeautifulSoup for crawling, pdfplumber for PDF extraction, pandas for spreadsheet parsing, Claude for classification. Playwright and interactive-map handling are the next layer for JS-heavy sites, which I'd add once the core system is dialed in against a few of your real target companies.
+
+Want me to run this against 3-5 companies from your actual list so we can see real accuracy before committing to the full scope?

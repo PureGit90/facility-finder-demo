@@ -1,0 +1,5 @@
+facility_name,address,city,facility_type,notes
+Columbus Injection Molding Plant,2200 Fabrication Way,Columbus OH,Manufacturing Plant,Primary plant listed in vendor compliance portal as ship-from location
+Phoenix Regional Distribution Center,890 Logistics Blvd,Phoenix AZ,Distribution Center,Confirmed as active ship-from address on 4 separate PO records
+Riverside Fulfillment Center,4400 Distribution Pkwy,Riverside CA,Fulfillment Center,Also appears in operations report PDF -- cross-source match
+Dallas Regional Warehouse,1500 Freight Line Rd,Dallas TX,Warehouse,"Listed as backup ship-from location, low PO volume"
